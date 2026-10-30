@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""从安装时绑定的 GitHub 私有仓库安全同步技能；不覆盖本地改动。"""
+"""从安装时绑定的 GitHub 仓库安全同步技能；不覆盖本地改动。"""
 import json
 import re
 import subprocess
