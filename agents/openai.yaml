@@ -1,4 +1,4 @@
 interface:
   display_name: "飞书问卷助手"
-  short_description: "把题目做成可编辑的飞书问卷，配好群邀请，最终确认后依次发送文字和链接"
-  default_prompt: "请用 $feishu-questionnaire 把我提供的题目创建成飞书问卷，准备群邀请文字，等我最终确认后发到指定群。"
+  short_description: "创建可编辑的飞书问卷、准备群邀请，也可截止回收并完整读取和分析结果"
+  default_prompt: "请用 $feishu-questionnaire 处理这次飞书问卷：按我的要求创建或修改题目、截止回收或分析全部结果；需要发群时等我最终确认。"
